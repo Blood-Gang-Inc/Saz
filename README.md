@@ -1,16 +1,16 @@
 # Executor
 
-/e fdy ss
+/e fdy ss   Loads the actual executor into the game.
 
 # Commands
 
-/e fdy gbtools      Gives you btools
+/e fdy gbtools  -    Loads btools/f3x into the game. (Auto Updates)
 
-/e fdy r6me       Lets you do crazy shit!!!!!
+/e fdy r6me   -    Lets you do crazy shit!!!!!
 
-/e fdy gboombox      Loads a boombox into the game
+/e fdy gboombox  -    Loads a boombox into the game
 
-/e fdy sdummy        Loads a dummy onto your character model. 
+/e fdy sdummy    -    Loads a dummy onto your character model. 
 
 # Admin
 
