@@ -1,6 +1,6 @@
 # Executor
 
-/e fdy ss   Loads the actual executor into the game.
+/e fdy ss  - Loads the actual executor into the game.
 
 # Commands
 
