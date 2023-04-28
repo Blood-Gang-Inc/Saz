@@ -2,6 +2,8 @@
 
 /e fdy ss  - Loads the actual executor into the game.
 
+Group: https://www.roblox.com/groups/15938678
+
 # Commands
 
 /e fdy gbtools  -    Loads btools/f3x into the game. (Auto Updates)
