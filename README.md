@@ -8,7 +8,7 @@ Group: https://www.roblox.com/groups/15938678
 
 /e fdy gbtools  -    Loads btools/f3x into the game. (Auto Updates)
 
-/e fdy r6me   -    Lets you do crazy shit!!!!!
+/e fdy r6me   -    Changes that frown upside down and lets you do crazy shit!!!!!
 
 /e fdy gboombox  -    Loads a boombox into the game
 
