@@ -2,8 +2,6 @@
 
 /e RIP ss  - Loads the actual executor into the game.
 
-** Discord https://linkr.it/fdyss **
-
 # Commands
 
 /e RIP f3xme  -    Loads btools/f3x into the game. (Auto Updates)
