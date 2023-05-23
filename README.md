@@ -6,7 +6,7 @@
 
 /e RIP f3xme  -    Loads btools/f3x into the game. (Auto Updates)
 
-/e RIP r6me   -    Changes that frown upside down and lets you do crazy shit!!!!!
+/e RIP r6me   -    Blow shit up and fuck the game up!!!!!!!!!!!!!!!!!!!
 
 /e RIP boomboxme  -    Loads a boombox into the game
 
