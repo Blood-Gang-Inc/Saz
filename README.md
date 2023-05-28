@@ -1,21 +1,21 @@
 # Executor
 
-/e RIP ss  - Loads the actual executor into the game.
+/e SAZ ServersideLol  - Loads the actual executor into the game.
 
 # Commands
 
-/e RIP f3xme  -    Loads btools/f3x into the game. (Auto Updates)
+/e SAZ f3xme  -    Loads btools/f3x into the game. (Auto Updates)
 
-/e RIP r6me   -    Blow shit up and fuck the game up!!!!!!!!!!!!!!!!!!!
+/e SAZ r6me   -    Blow shit up and fuck the game up!!!!!!!!!!!!!!!!!!!
 
-/e RIP boomboxme  -    Loads a boombox into the game
+/e SAZ boomboxme  -    Loads a boombox into the game
 
-/e RIP sdummy    -    Loads a dummy onto your character model. 
+/e SAZ testdummy    -    Loads a dummy onto your character model. 
 
 # Admin
 
-/e RIP MML  -  Loads MML Admin into the game wtf did you think it did
+/e SAZ MML  -  Loads MML Admin into the game wtf did you think it did
 
-/e RIP infyield  -   Loads inf yield into the game
+/e SAZ IYme  -   Loads inf yield into the game
 
-/e RIP ownermePLS   -   Ranks you as an admin in the game.
+/e SAZ rankmePLS [Rank here or key, -6 is for Kohls Owner (Perm)]   -   Ranks you as an admin in the game.
