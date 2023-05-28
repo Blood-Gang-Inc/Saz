@@ -14,8 +14,8 @@
 
 # Admin
 
-/e SAZ MML  -  Loads MML Admin into the game wtf did you think it did
+/e SAZ MML  -  Loads MML Admin (you are an owner!!!!!) Into the game.
 
-/e SAZ IYme  -   Loads inf yield into the game
+/e SAZ IYme  -   Loads IY (removes current owners who ran it first so uhhhhhh give the current owner it back if you find them)
 
-/e SAZ rankmePLS [Rank here or key, -6 is for Kohls Owner (Perm)]   -   Ranks you as an admin in the game.
+/e SAZ rankmePLS [Rank here or key, -6 is for Kohls Owner (Perm)]   -   Gives you a rank inside the actual game (perm or temp)
