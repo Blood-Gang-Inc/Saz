@@ -14,10 +14,6 @@
             </a>
         </div>
     </div>
-            <ul>
-                <li>Executor</li>
-            </ul>
-        </div>
         <div class="section">
             <h2>Troll Commands 😂</h2>
             <ul>
