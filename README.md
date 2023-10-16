@@ -30,7 +30,7 @@
         </div>
         <div class="section">
             <h2>Access Information 🧾</h2>
-            <p>Access Key: SAZ<br>By using this access key, you agree to <a href = "https://discord.gg/mDyPUZak8a" target="_blank"> </a> and are accepting the punishments of using Saz.</p>
+            <p>Access Key: SAZ<br>By using this access key, you agree to <a href = "https://discord.gg/mDyPUZak8a" target="_blank">#│📄│𒄠・terms-of-use</a> and are accepting the punishments of using Saz.</p>
         </div>
         <div class="button-container">
             <a class="button" href="https://discord.gg/mDyPUZak8a" target="_blank">
