@@ -14,14 +14,12 @@
         <li><code>/e [key] Execute</code></li>
     </ul>
     <h1>😂 Troll Commands</h1>
-    <p><a href="https://github.com/Blood-Gang-Inc/sa-zserverside">Commands</a></p>
     <ul>
         <li><code>/e [key] f3xme</code> <span> (Auto Updates)</span></li>
         <li><code>/e [key] r6me</code> - <del>Blow shit up and fuck the game up!!!!!!!!!!!!!!!!!!!</del> <span>:(</span></li>
         <li><code>/e [key] testdummy</code></li>
     </ul>
     <h1>🛡️ Admin Commands</h1>
-    <p><a href="https://github.com/Blood-Gang-Inc/Admin">Admin</a></p>
     <ul>
         <li><code>/e [key] MML</code></li>
         <li><code>/e [key] IYme</code></li>
