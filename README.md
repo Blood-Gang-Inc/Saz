@@ -8,16 +8,16 @@
             <h2>Command Documentation</h2>
             <p>Below are some of the commonly used commands with Saz SS Executor:</p>
             <ul>
-                <li><code>ServersideLol</code></li>
+                <li><code>Executor</code></li>
                 <li><code>Execute</code></li>
             </ul>
         </div>
         <div class="section">
             <h2>Troll Commands 😂</h2>
             <ul>
-                <li><code>f3xme</code> <span>(Auto Updates)</span></li>
-                <li><code>r6me</code> - <del>Blow stuff up and have fun!</del> <span>:(</span></li>
-                <li><code>testdummy</code></li>
+                <li><code>f3x</code> <span>(Auto Updates)</span></li>
+                <li><code>r6</code> - <del>Blow stuff up and have fun!</del> <span>:(</span></li>
+                <li><code>dummy</code></li>
             </ul>
         </div>
         <div class="section">
