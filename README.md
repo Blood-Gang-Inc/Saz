@@ -21,9 +21,9 @@
     </ul>
     <h1>🛡️ Admin Commands</h1>
     <ul>
-        <li><code>MML</code></li>
-        <li><code>IYme</code></li>
-        <li><code>rankmePLS</code> <span>Put <a href="https://github.com/Epix-Incorporated/Adonis/wiki">API Key</a> after the command for Adonis. (WIP)</span></li>
+        <li><code><a href = "https://www.youtube.com/watch?v=uP-Q_4QyTaU&pp=ygUTbW1sICByb2Jsb3ggZXhwbG9pdA%3D%3D">MML </a></code></li>
+        <li><code><a href = "https://github.com/EdgeIY/infiniteyield">IYme</a></code></li>
+        <li><code><a href = "https://www.youtube.com/watch?v=GFiiWdQts7s&pp=ygUkcmFua2luZyByb2Jsb3ggYWRtaW4gIHJvYmxveCBleHBsb2l0">rankmePLS</a></code> <span>Put <a href="https://github.com/Epix-Incorporated/Adonis/wiki">API Key</a> after the command for Adonis. (WIP)</span></li>
     </ul>
     <h1>🧾 Access Information</h1>
     <p><a href="https://github.com/Blood-Gang-Inc/sa-zserverside">Access!</a></p>
@@ -35,7 +35,7 @@
             <p>To use Saz SS Executor, you'll need an execution key. Make sure you have a valid key to unlock the full potential of this powerful tool.</p>
         </div>
         <div class="button-container">
-            <a class="button" href="https://sazssexecutor.com">Get Started</a>
+            <a class="button" href="https://discord.gg/mDyPUZak8a">Get Started</a>
         </div>
     </div>
 </body>
