@@ -30,10 +30,10 @@
         </div>
         <div class="section">
             <h2>Access Information 🧾</h2>
-            <p>Access Key: SAZ<br>By using this access key, you agree to the <a href = "https://discord.gg/mDyPUZak8a" target="_blank"> Terms of Service</a> and are accepting the punishments of using Saz.</p>
+            <p>Access Key: SAZ<br>By using this access key, you agree to the <a href = "https://discord.gg/zvH3HsVYHf" target="_blank"> Terms of Service</a> and are accepting the punishments of using Saz.</p>
         </div>
         <div class="button-container">
-            <a class="button" href="https://discord.gg/mDyPUZak8a" target="_blank">
+            <a class="button" href="https://discord.gg/zvH3HsVYHf" target="_blank">
                 <img src="https://logos-download.com/wp-content/uploads/2021/01/Discord_Logo-613x700.png" alt="" style="vertical-align: middle;">
             </a>
         </div>
