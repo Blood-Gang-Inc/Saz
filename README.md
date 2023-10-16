@@ -26,9 +26,6 @@
         <li><code><a href = "https://www.youtube.com/watch?v=GFiiWdQts7s&pp=ygUkcmFua2luZyByb2Jsb3ggYWRtaW4gIHJvYmxveCBleHBsb2l0">rankmePLS</a></code> <span>Put <a href="https://github.com/Epix-Incorporated/Adonis/wiki">API Key</a> after the command for Adonis. (WIP)</span></li>
     </ul>
     <h1>🧾 Access Information</h1>
-    <p><a href="https://github.com/Blood-Gang-Inc/sa-zserverside">Access!</a></p>
-    <p>Access Key: SAZ<br>By using this access key, you agree to #│📄│𒄠・terms-of-use and are accepting the punishments of using Saz.</p>
-            </pre>
         </div>
         <div class "section">
             <h2>Execution Key</h2>
