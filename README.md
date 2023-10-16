@@ -7,32 +7,35 @@
         <div class="section">
             <h2>Command Documentation</h2>
             <p>Below are some of the commonly used commands with Saz SS Executor:</p>
-            <pre class="code">
-    <h1><a href="https://github.com/Blood-Gang-Inc/sa-zserverside">Executor</a></h1>
-    <ul>
-        <li><code>ServersideLol</code></li>
-        <li><code>Execute</code></li>
-    </ul>
-    <h1>😂 Troll Commands</h1>
-    <ul>
-        <li><code>f3xme</code> <span> (Auto Updates)</span></li>
-        <li><code>r6me</code> - <del>Blow shit up and fuck the game up!!!!!!!!!!!!!!!!!!!</del> <span>:(</span></li>
-        <li><code>testdummy</code></li>
-    </ul>
-    <h1>🛡️ Admin Commands</h1>
-    <ul>
-        <li><code><a href = "https://www.youtube.com/watch?v=uP-Q_4QyTaU&pp=ygUTbW1sICByb2Jsb3ggZXhwbG9pdA%3D%3D">MML </a></code></li>
-        <li><code><a href = "https://github.com/EdgeIY/infiniteyield">IYme</a></code></li>
-        <li><code><a href = "https://www.youtube.com/watch?v=GFiiWdQts7s&pp=ygUkcmFua2luZyByb2Jsb3ggYWRtaW4gIHJvYmxveCBleHBsb2l0">rankmePLS</a></code> <span>Put <a href="https://github.com/Epix-Incorporated/Adonis/wiki">API Key</a> after the command for Adonis. (WIP)</span></li>
-    </ul>
-    <h1>🧾 Access Information</h1>
+            <ul>
+                <li><code>ServersideLol</code></li>
+                <li><code>Execute</code></li>
+            </ul>
         </div>
-        <div class "section">
-            <h2>Execution Key</h2>
-            <p>To use Saz SS Executor, you'll need an execution key. Make sure you have a valid key to unlock the full potential of this powerful tool.</p>
+        <div class="section">
+            <h2>Troll Commands 😂</h2>
+            <ul>
+                <li><code>f3xme</code> <span>(Auto Updates)</span></li>
+                <li><code>r6me</code> - <del>Blow stuff up and have fun!</del> <span>:(</span></li>
+                <li><code>testdummy</code></li>
+            </ul>
+        </div>
+        <div class="section">
+            <h2>Admin Commands 🛡️</h2>
+            <ul>
+                <li><code><a href="https://www.youtube.com/watch?v=uP-Q_4QyTaU&pp=ygUTbW1sICByb2Jsb3ggZXhwbG9pdA%3D%3D" target="_blank">MML</a></code></li>
+                <li><code><a href="https://github.com/EdgeIY/infiniteyield" target="_blank">IYme</a></code></li>
+                <li><code><a href="https://www.youtube.com/watch?v=GFiiWdQts7s&pp=ygUkcmFua2luZyByb2Jsb3ggYWRtaW4gIHjvYmxveCBleHBsb2l0" target="_blank">rankmePLS</a></code> <span>Put <a href="https://github.com/Epix-Incorporated/Adonis/wiki" target="_blank">API Key</a> after the command for Adonis. (WIP)</span></li>
+            </ul>
+        </div>
+        <div class="section">
+            <h2>Access Information 🧾</h2>
+            <p>Access Key: SAZ<br>By using this access key, you agree to #│📄│𒄠・terms-of-use and are accepting the punishments of using Saz.</p>
         </div>
         <div class="button-container">
-            <a class="button" href="https://discord.gg/mDyPUZak8a">Get Started</a>
+            <a class="button" href="https://discord.gg/mDyPUZak8a" target="_blank">
+                <img src="discord-logo.png" alt="Discord Logo" style="vertical-align: middle;"> Get Started
+            </a>
         </div>
     </div>
 </body>
