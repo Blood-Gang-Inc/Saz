@@ -15,9 +15,9 @@
         <div class="section">
             <h2>Troll Commands 😂</h2>
             <ul>
-                <li><code><a href = "https://github.com/F3XTeam/RBX-Building-Tools" target="_blank">F3X / Btools</a></code> <span>(Auto Updates)</span></li>
+                <li><code><a href = "https://github.com/F3XTeam/RBX-Building-Tools" target="_blank">F3X</a></code> <span>(Auto Updates)</span></li>
                 <li><code><a href = "https://roblox.fandom.com/wiki/R6" target="_blank">r6</a></code> - <del>Blow stuff up and have fun!</del> <span>:(</span></li>
-                <li><code><a href = "" target="_blank">Dummy</a></code> - NPC</li>
+                <li><code><a href = "https://create.roblox.com/docs/characters" target="_blank">Dummy</a></code> - NPC</li>
             </ul>
         </div>
         <div class="section">
