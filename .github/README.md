@@ -9,7 +9,6 @@
             <p>Below are some of the commonly used commands with Saz SS Executor:</p>
             <ul>
                 <li>Executor</li>
-                <li>Chat - Classic Chat Execution</li>
             </ul>
         </div>
         <div class="section">
