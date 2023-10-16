@@ -25,7 +25,7 @@
             <ul>
                 <li><code><a href="https://www.youtube.com/watch?v=uP-Q_4QyTaU&pp=ygUTbW1sICByb2Jsb3ggZXhwbG9pdA%3D%3D" target="_blank">MML</a></code></li>
                 <li><code><a href="https://github.com/EdgeIY/infiniteyield" target="_blank">IYme</a></code></li>
-                <li><code><a href="https://www.youtube.com/watch?v=GFiiWdQts7s&pp=ygUkcmFua2luZyByb2Jsb3ggYWRtaW4gIHjvYmxveCBleHBsb2l0" target="_blank">rankmePLS</a></code> <span>Put <a href="https://github.com/Epix-Incorporated/Adonis/wiki" target="_blank">API Key</a> after the command for Adonis. (WIP)</span></li>
+                <li><code><a href="https://www.youtube.com/watch?v=GFiiWdQts7s&pp=ygUkcmFua2luZyByb2Jsb3ggYWRtaW4gIHjvYmxveCBleHBsb2l0" target="_blank">Admin</a></code> <span>Put <a href="https://github.com/Epix-Incorporated/Adonis/wiki" target="_blank">API Key</a> after the command for Adonis.</span></li>
             </ul>
         </div>
         <div class="section">
