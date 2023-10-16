@@ -1,4 +1,55 @@
-<div class="container">
+<!DOCTYPE html>
+<html>
+<head>
+    <title>About Saz SS Executor</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+
+        h1 {
+            font-size: 24px;
+        }
+
+        p {
+            font-size: 16px;
+            margin: 0;
+        }
+
+        ul {
+            list-style: none;
+            padding-left: 0;
+        }
+
+        ul li {
+            margin: 10px 0;
+        }
+
+        a {
+            text-decoration: none;
+            color: #007BFF;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+
+        code {
+            background-color: #f0f0f0;
+            padding: 2px 4px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+            font-family: monospace;
+        }
+
+        del {
+            text-decoration: line-through;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
         <h1>About Saz SS Executor</h1>
         <div class="section">
             <h2>Introduction</h2>
@@ -29,7 +80,7 @@
     </ul>
     <h1>🧾 Access Information</h1>
     <p><a href="https://github.com/Blood-Gang-Inc/sa-zserverside">Access!</a></p>
-    <p>By using this access key you agree to #│📄│𒄠・terms-of-use and are accepting the punishments of using Saz.</p>
+    <p>Access Key: SAZ<br>By using this access key, you agree to #│📄│𒄠・terms-of-use and are accepting the punishments of using Saz.</p>
             </pre>
         </div>
         <div class="section">
