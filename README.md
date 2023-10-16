@@ -8,7 +8,7 @@
             <h2>Command Documentation</h2>
             <p>Below are some of the commonly used commands with Saz SS Executor:</p>
             <pre class="code">
-    <p><a href="https://github.com/Blood-Gang-Inc/sa-zserverside">Executor</a></p>
+    <h1><a href="https://github.com/Blood-Gang-Inc/sa-zserverside">Executor</a></h1>
     <ul>
         <li><code>/e [key] ServersideLol</code></li>
         <li><code>/e [key] Execute</code></li>
