@@ -33,7 +33,7 @@
         </div>
         <div class="button-container">
             <a class="button" href="https://discord.gg/zvH3HsVYHf" target="_blank">
-                <img src="https://logos-download.com/wp-content/uploads/2021/01/Discord_Logo-613x700.png" alt="" style="vertical-align: middle;">
+                <img src="https://media.discordapp.net/attachments/338403017894395905/668536741942263808/Discord-Logo-Color.png" alt="Discord's Logo" style="vertical-align: middle;">
             </a>
         </div>
     </div>
