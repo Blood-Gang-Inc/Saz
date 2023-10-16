@@ -8,24 +8,24 @@
             <h2>Command Documentation</h2>
             <p>Below are some of the commonly used commands with Saz SS Executor:</p>
             <ul>
-                <li><code>Executor</code></li>
-                <li><code>Chat</code>Classic Chat Execution</li>
+                <li>Executor</li>
+                <li>Chat - Classic Chat Execution</li>
             </ul>
         </div>
         <div class="section">
             <h2>Troll Commands 😂</h2>
             <ul>
-                <li><code><a href = "https://github.com/F3XTeam/RBX-Building-Tools" target="_blank">F3X</a></code> <span>(Auto Updates)</span></li>
-                <li><code><a href = "https://roblox.fandom.com/wiki/R6" target="_blank">r6</a></code> - <del>Blow stuff up and have fun!</del> <span>:(</span></li>
-                <li><code><a href = "https://create.roblox.com/docs/characters" target="_blank">Dummy</a></code> - NPC</li>
+                <li><a href = "https://github.com/F3XTeam/RBX-Building-Tools" target="_blank">F3X</a> <span>(Auto Updates)</span></li>
+                <li><a href = "https://roblox.fandom.com/wiki/R6" target="_blank">R6</a> - <del>Blow stuff up and have fun!</del> <span>:(</span></li>
+                <li><a href = "https://create.roblox.com/docs/characters" target="_blank">NPC</a></li>
             </ul>
         </div>
         <div class="section">
             <h2>Admin Commands 🛡️</h2>
             <ul>
-                <li><code><a href="https://www.youtube.com/watch?v=uP-Q_4QyTaU&pp=ygUTbW1sICByb2Jsb3ggZXhwbG9pdA%3D%3D" target="_blank">MML</a></code></li>
-                <li><code><a href="https://github.com/EdgeIY/infiniteyield" target="_blank">IYme</a></code></li>
-                <li><code><a href="https://www.youtube.com/watch?v=GFiiWdQts7s&pp=ygUkcmFua2luZyByb2Jsb3ggYWRtaW4gIHjvYmxveCBleHBsb2l0" target="_blank">Admin</a></code> <span>Put <a href="https://github.com/Epix-Incorporated/Adonis/wiki" target="_blank">API Key</a> after the command for Adonis.</span></li>
+                <li><a href="https://www.youtube.com/watch?v=uP-Q_4QyTaU&pp=ygUTbW1sICByb2Jsb3ggZXhwbG9pdA%3D%3D" target="_blank">MML</a></li>
+                <li><a href="https://github.com/EdgeIY/infiniteyield" target="_blank">IY</a></li>
+                <li><a href="https://www.youtube.com/watch?v=GFiiWdQts7s&pp=ygUkcmFua2luZyByb2Jsb3ggYWRtaW4gIHjvYmxveCBleHBsb2l0" target="_blank">Admin</a><span>Put <a href="https://github.com/Epix-Incorporated/Adonis/wiki" target="_blank">API Key</a> after the command for Adonis.</span></li>
             </ul>
         </div>
         <div class="section">
