@@ -9,7 +9,7 @@
             <p>Below are some of the commonly used commands with Saz SS Executor:</p>
             <ul>
                 <li><code>Executor</code></li>
-                <li><code>Execute</code></li>
+                <li><code>Chat</code>Classic Chat Execution</li>
             </ul>
         </div>
         <div class="section">
@@ -17,7 +17,7 @@
             <ul>
                 <li><code>f3x</code> <span>(Auto Updates)</span></li>
                 <li><code>r6</code> - <del>Blow stuff up and have fun!</del> <span>:(</span></li>
-                <li><code>dummy</code></li>
+                <li><code>dummy</code>Spawns a Roblox Character.</li>
             </ul>
         </div>
         <div class="section">
