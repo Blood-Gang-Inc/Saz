@@ -7,6 +7,13 @@
         <div class="section">
             <h2>Command Documentation</h2>
             <p>Below are some of the commonly used commands with Saz SS Executor:</p>
+                 </div>
+        <div class="button-container">
+            <a class="button" href="https://discord.gg/zvH3HsVYHf" target="_blank">
+                <img src="https://media.discordapp.net/attachments/338403017894395905/668536741942263808/Discord-Logo-Color.png" alt="Discord's Logo" style="vertical-align: middle;">
+            </a>
+        </div>
+    </div>
             <ul>
                 <li>Executor</li>
             </ul>
@@ -30,12 +37,3 @@
         <div class="section">
             <h2>Access Information 🧾</h2>
             <p><br>By using this <a href = "https://blood-gang-inc.github.io/sa-zserverside/" target="_blank">access key</a>, you agree to the <a href = "https://discord.gg/zvH3HsVYHf" target="_blank"> Terms of Service</a> and are accepting the punishments of using Saz.</p>
-        </div>
-        <div class="button-container">
-            <a class="button" href="https://discord.gg/zvH3HsVYHf" target="_blank">
-                <img src="https://media.discordapp.net/attachments/338403017894395905/668536741942263808/Discord-Logo-Color.png" alt="Discord's Logo" style="vertical-align: middle;">
-            </a>
-        </div>
-    </div>
-</body>
-</html>
