@@ -17,7 +17,7 @@
             <ul>
                 <li><code>f3x</code> <span>(Auto Updates)</span></li>
                 <li><code>r6</code> - <del>Blow stuff up and have fun!</del> <span>:(</span></li>
-                <li><code>dummy</code>Spawns a Roblox Character.</li>
+                <li><code>dummy - NPC</code></li>
             </ul>
         </div>
         <div class="section">
