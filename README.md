@@ -1,5 +1,3 @@
-Put `SAZ` where it says [key]
-
 <!DOCTYPE html>
 <html>
 <head>
@@ -30,41 +28,51 @@ Put `SAZ` where it says [key]
             border: 1px solid #ccc;
             border-radius: 5px;
         }
+        .button-container {
+            text-align: center;
+        }
+        .button {
+            display: inline-block;
+            margin: 10px;
+            padding: 10px 20px;
+            background-color: #007BFF;
+            color: #fff;
+            text-decoration: none;
+            border-radius: 5px;
+            font-size: 18px;
+        }
+        .button:hover {
+            background-color: #0056b3;
+        }
     </style>
 </head>
 <body>
     <div class="container">
         <h1>About Saz SS Executor</h1>
-
         <div class="section">
             <h2>Introduction</h2>
-            <p>Saz SS Executor is a powerful and easy-to-use executor for Roblox games. With a wide range of features and commands, it offers a seamless experience for executing scripts and enhancing your gameplay.</p>
-        </div>
-
-        <div class="section">
-            <h2>Key Features</h2>
-            <ul>
-                <li>Fast and efficient script execution</li>
-                <li>User-friendly interface</li>
-                <li>Roblox game compatibility</li>
-                <li>Wide variety of commands and functions</li>
-                <li>Script documentation for easy use</li>
-            </ul>
+            <p>Saz SS Executor is a fast and easy-to-use Roblox executor designed to enhance your gaming experience. It provides a wide range of powerful features for game manipulation, allowing you to explore, experiment, and enjoy Roblox games in new and exciting ways.</p>
         </div>
         <div class="section">
             <h2>Command Documentation</h2>
-            <p>Here are some example commands and their usage:</p>
-            <pre class="code">.inject - Inject a script into the game
-.teleport(123456) - Teleport to a specific location
-.fire("Username") - Fire a player from the game
-.kill("Username") - Eliminate a player
-.gui - Open the executor's graphical user interface
-.help - Display a list of available commands</pre>
+            <p>Below are some of the commonly used commands with Saz SS Executor:</p>
+            <pre class="code">
+                -- Teleport to a specific location
+                :teleport(location)
+                -- Spawn an item or entity
+                :spawn(item)
+                -- Set player speed
+                :speed(speed)
+                -- Execute custom Lua scripts
+                :execute(script)
+            </pre>
         </div>
-
         <div class="section">
-            <h2>Get Started</h2>
-            <p>Start using Saz SS Executor today to enhance your Roblox gaming experience. Download the executor and unleash the power of scripting in your favorite games!</p>
+            <h2>Execution Key</h2>
+            <p>To use Saz SS Executor, you'll need an execution key. Make sure you have a valid key to unlock the full potential of this powerful tool.</p>
+        </div>
+        <div class="button-container">
+            <a class="button" href="https://sazssexecutor.com">Get Started</a>
         </div>
     </div>
 </body>
