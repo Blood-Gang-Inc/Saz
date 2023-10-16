@@ -8,14 +8,28 @@
             <h2>Command Documentation</h2>
             <p>Below are some of the commonly used commands with Saz SS Executor:</p>
             <pre class="code">
-                -- Teleport to a specific location
-                :teleport(location)
-                -- Spawn an item or entity
-                :spawn(item)
-                -- Set player speed
-                :speed(speed)
-                -- Execute custom Lua scripts
-                :execute(script)
+    <p><a href="https://github.com/Blood-Gang-Inc/sa-zserverside">Executor</a></p>
+    <ul>
+        <li><code>/e [key] ServersideLol</code></li>
+        <li><code>/e [key] Execute</code></li>
+    </ul>
+    <h1>😂 Troll Commands</h1>
+    <p><a href="https://github.com/Blood-Gang-Inc/sa-zserverside">Commands</a></p>
+    <ul>
+        <li><code>/e [key] f3xme</code> <span> (Auto Updates)</span></li>
+        <li><code>/e [key] r6me</code> - <del>Blow shit up and fuck the game up!!!!!!!!!!!!!!!!!!!</del> <span>😞</span></li>
+        <li><code>/e [key] testdummy</code></li>
+    </ul>
+    <h1>🛡️ Admin Commands</h1>
+    <p><a href="https://github.com/Blood-Gang-Inc/Admin">Admin</a></p>
+    <ul>
+        <li><code>/e [key] MML</code></li>
+        <li><code>/e [key] IYme</code></li>
+        <li><code>/e [key] rankmePLS</code> <span>Put <a href="https://github.com/Epix-Incorporated/Adonis/wiki">API Key</a> after the command for Adonis. (WIP)</span></li>
+    </ul>
+    <h1>🧾 Access Information</h1>
+    <p><a href="https://github.com/Blood-Gang-Inc/sa-zserverside">Access!</a></p>
+    <p>By using this access key you agree to #│📄│𒄠・terms-of-use and are accepting the punishments of using Saz.</p>
             </pre>
         </div>
         <div class="section">
