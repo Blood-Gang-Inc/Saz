@@ -29,7 +29,6 @@
         </li>
         <!-- Add more contributors as needed -->
     </ul>
-
     <p>We appreciate the dedication and hard work of our contributors in making Saz SS Executor a powerful and enjoyable tool for the Roblox community.</p>
 </div>
         <div class="section">
