@@ -14,6 +14,24 @@
             </a>
         </div>
     </div>
+    <div class="section">
+    <h2>Credits</h2>
+    <p>Saz SS Executor is brought to you by the talented individuals and contributors who have worked hard to develop and improve its features. We would like to express our gratitude to the following contributors:</p>
+    <ul>
+        <li>
+            <a href="https://www.roblox.com/groups/3901342/Team-Force-RBLX" target="_blank">4zx16</a> - Lead Developer
+        </li>
+        <li>
+            <a href="https://www.roblox.com/users/1324572829/profile" target="_blank">Gibson_cashh</a> - Logging/Partner
+        </li>
+        <li>
+            <a href="https://www.roblox.com/users/62857002/profile" target="_blank">christopherdis</a> - UI Designer/Representative
+        </li>
+        <!-- Add more contributors as needed -->
+    </ul>
+
+    <p>We appreciate the dedication and hard work of our contributors in making Saz SS Executor a powerful and enjoyable tool for the Roblox community.</p>
+</div>
         <div class="section">
             <h2>Troll Commands 😂</h2>
             <ul>
