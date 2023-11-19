@@ -22,7 +22,7 @@
             <a href="https://www.roblox.com/groups/3901342/Team-Force-RBLX" target="_blank">4zx16</a> - Lead Developer
         </li>
         <li>
-            <a href="https://www.roblox.com/users/1324572829/profile" target="_blank">Gibson_cashh</a> - Logging/Partner
+            <a href="https://www.roblox.com/users/1324572829/profile" target="_blank">gibson_cashh</a> - Logging/Partner
         </li>
         <li>
             <a href="https://www.roblox.com/users/62857002/profile" target="_blank">christopherdis</a> - UI Designer/Representative
