@@ -19,7 +19,7 @@
     <p>Saz SS Executor is brought to you by the talented individuals and contributors who have worked hard to develop and improve its features. We would like to express our gratitude to the following contributors:</p>
     <ul>
         <li>
-            <a href="https://www.roblox.com/groups/3901342/Team-Force-RBLX" target="_blank">4zx16</a> - Lead Developer
+            <a href="https://www.roblox.com/users/1396665251/profile" target="_blank">4zx16</a> - Lead Developer
         </li>
         <li>
             <a href="https://www.roblox.com/users/1324572829/profile" target="_blank">gibson_cashh</a> - Logging/Partner
