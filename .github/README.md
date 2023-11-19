@@ -32,7 +32,7 @@
     <p>We appreciate the dedication and hard work of our contributors in making Saz SS Executor a powerful and enjoyable tool for the Roblox community.</p>
 </div>
         <div class="section">
-            <h2>Troll Commands 😂</h2>
+            <h2>Troll Commands 🤪</h2>
             <ul>
                 <li><a href = "https://github.com/F3XTeam/RBX-Building-Tools" target="_blank">F3X</a> <span> → (Auto Updates)</span></li>
                 <li><a href = "https://roblox.fandom.com/wiki/R6" target="_blank">R6</a> - <del> → Blow stuff up and have fun!</del> <span>:(</span></li>
