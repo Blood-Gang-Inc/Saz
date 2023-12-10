@@ -17,22 +17,22 @@
     <div class="section">
     <h2>Credits</h2>
     <p>Saz SS Executor is brought to you by the talented individuals and contributors who have worked hard to develop and improve its features. We would like to express our gratitude to the following contributors:</p>
+            <p>Owner</p>
     <ul>
         <li>
-            <p>Owner</p>
             <a href="https://www.roblox.com/users/1396665251/profile" target="_blank">4zx16</a> - Lead Developer
             <li>MainModule</li>
             <li>Logging & Server Generation</li>
             <li>Command Module</li>
             <li>Checking Module & HTTP</li>
         </li>
+          <p>Partner</p>
         <li>
-            <p>Partner</p>
-            <a href="https://www.roblox.com/users/1324572829/profile" target="_blank">gibson_cashh</a> — Logging/Partner
+            <a href="https://www.roblox.com/users/1324572829/profile" target="_blank">gibson_cashh</a>
             <li>Logging</li>
         </li>
+        <p>Representative & UI Designer</p>
         <li>
-            <p>Representative & UI Designer</p>
             <a href="https://www.roblox.com/users/62857002/profile" target="_blank">christopherdis</a>
             <li>Saz UI</li>
         </li>
