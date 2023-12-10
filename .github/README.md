@@ -20,10 +20,6 @@
     <ul>
         <li>
             <a href="https://www.roblox.com/users/1396665251/profile" target="_blank">4zx16</a> — Owner
-            <li>MainModule</li>
-            <li>Logging & Server Generation</li>
-            <li>Command Module</li>
-            <li>Checking Module & HTTP</li>
         </li>
         <li>
             <a href="https://www.roblox.com/users/1324572829/profile" target="_blank">gibson_cashh</a> — Partner
