@@ -2,7 +2,7 @@
         <h1>About Saz SS Executor</h1>
         <div class="section">
             <h2>Introduction</h2>
-            <p>Saz SS Executor is a fast and easy-to-use Roblox executor designed to enhance your gaming experience. It provides a wide range of powerful features for game manipulation, allowing you to explore, experiment, and enjoy Roblox games in new and exciting ways.</p>
+            <p>Saz is a fast and easy-to-use Roblox executor designed to enhance your gaming experience. It provides a wide range of powerful features for game manipulation, allowing you to explore, experiment, and enjoy Roblox games in new and exciting ways.</p>
         </div>
         <div class="section">
             <h2>Command Documentation</h2>
@@ -19,17 +19,26 @@
     <p>Saz SS Executor is brought to you by the talented individuals and contributors who have worked hard to develop and improve its features. We would like to express our gratitude to the following contributors:</p>
     <ul>
         <li>
+            <p>Owner</p>
             <a href="https://www.roblox.com/users/1396665251/profile" target="_blank">4zx16</a> - Lead Developer
+            <li>MainModule</li>
+            <li>Logging & Server Generation</li>
+            <li>Command Module</li>
+            <li>Checking Module & HTTP</li>
         </li>
         <li>
-            <a href="https://www.roblox.com/users/1324572829/profile" target="_blank">gibson_cashh</a> - Logging/Partner
+            <p>Partner</p>
+            <a href="https://www.roblox.com/users/1324572829/profile" target="_blank">gibson_cashh</a> — Logging/Partner
+            <li>Logging</li>
         </li>
         <li>
-            <a href="https://www.roblox.com/users/62857002/profile" target="_blank">christopherdis</a> - UI Designer/Representative
+            <p>Representative & UI Designer</p>
+            <a href="https://www.roblox.com/users/62857002/profile" target="_blank">christopherdis</a>
+            <li>Saz UI</li>
         </li>
         <!-- Add more contributors as needed -->
     </ul>
-    <p>We appreciate the dedication and hard work of our contributors in making Saz SS Executor a powerful and enjoyable tool for the Roblox community.</p>
+    <p>We appreciate the dedication and hard work of our contributors in making Saz a powerful and enjoyable tool for the Roblox community.</p>
 </div>
         <div class="section">
             <h2>Troll Commands 🤪</h2>
