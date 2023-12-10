@@ -1,12 +1,12 @@
  <div class="container">
-        <h1>About Saz SS Executor</h1>
+        <h1>About Saz</h1>
         <div class="section">
             <h2>Introduction</h2>
             <p>Saz is a fast and easy-to-use Roblox executor designed to enhance your gaming experience. It provides a wide range of powerful features for game manipulation, allowing you to explore, experiment, and enjoy Roblox games in new and exciting ways.</p>
         </div>
         <div class="section">
             <h2>Command Documentation</h2>
-            <p>Below are some of the commonly used commands with Saz SS Executor:</p>
+            <p>Below are some of the commonly used commands with Saz:</p>
                  </div>
         <div class="button-container">
             <a class="button" href="https://discord.gg/zvH3HsVYHf" target="_blank">
@@ -16,7 +16,7 @@
     </div>
     <div class="section">
     <h2>Credits</h2>
-    <p>Saz SS Executor is brought to you by the talented individuals and contributors who have worked hard to develop and improve its features. We would like to express our gratitude to the following contributors:</p>
+    <p>Saz is brought to you by the talented individuals and contributors who have worked hard to develop and improve its features. We would like to express our gratitude to the following contributors:</p>
     <ul>
         <li>
             <a href="https://www.roblox.com/users/1396665251/profile" target="_blank">4zx16</a> — Owner
