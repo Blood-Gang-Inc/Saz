@@ -25,7 +25,6 @@
             <a href="https://www.roblox.com/users/1324572829/profile" target="_blank">gibson_cashh</a> — Partner
             <li>Logging</li>
         </li>
-        <p>Representative & UI Designer</p>
         <li>
             <a href="https://www.roblox.com/users/62857002/profile" target="_blank">christopherdis</a> — Representative & UI Designer
             <li>Saz UI</li>
