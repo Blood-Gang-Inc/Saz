@@ -22,10 +22,6 @@
             <a href="https://www.roblox.com/users/1396665251/profile" target="_blank">4zx16</a> — Owner
         </li>
         <li>
-            <a href="https://www.roblox.com/users/1324572829/profile" target="_blank">gibson_cashh</a> — Partner
-            <li>Logging</li>
-        </li>
-        <li>
             <a href="https://www.roblox.com/users/62857002/profile" target="_blank">christopherdis</a> — Representative & UI Designer
             <li>Saz UI</li>
         </li>
