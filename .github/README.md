@@ -17,7 +17,6 @@
     <div class="section">
     <h2>Credits</h2>
     <p>Saz SS Executor is brought to you by the talented individuals and contributors who have worked hard to develop and improve its features. We would like to express our gratitude to the following contributors:</p>
-            <p>Owner</p>
     <ul>
         <li>
             <a href="https://www.roblox.com/users/1396665251/profile" target="_blank">4zx16</a> — Owner
