@@ -20,19 +20,19 @@
             <p>Owner</p>
     <ul>
         <li>
-            <a href="https://www.roblox.com/users/1396665251/profile" target="_blank">4zx16</a> - Lead Developer
+            <a href="https://www.roblox.com/users/1396665251/profile" target="_blank">4zx16</a> — Owner
             <li>MainModule</li>
             <li>Logging & Server Generation</li>
             <li>Command Module</li>
             <li>Checking Module & HTTP</li>
         </li>
         <li>
-            <a href="https://www.roblox.com/users/1324572829/profile" target="_blank">gibson_cashh</a>       <p>Partner</p>
+            <a href="https://www.roblox.com/users/1324572829/profile" target="_blank">gibson_cashh</a> — Partner
             <li>Logging</li>
         </li>
         <p>Representative & UI Designer</p>
         <li>
-            <a href="https://www.roblox.com/users/62857002/profile" target="_blank">christopherdis</a>
+            <a href="https://www.roblox.com/users/62857002/profile" target="_blank">christopherdis</a> — Representative & UI Designer
             <li>Saz UI</li>
         </li>
         <!-- Add more contributors as needed -->
