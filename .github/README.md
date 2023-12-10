@@ -26,9 +26,8 @@
             <li>Command Module</li>
             <li>Checking Module & HTTP</li>
         </li>
-          <p>Partner</p>
         <li>
-            <a href="https://www.roblox.com/users/1324572829/profile" target="_blank">gibson_cashh</a>
+            <a href="https://www.roblox.com/users/1324572829/profile" target="_blank">gibson_cashh</a>       <p>Partner</p>
             <li>Logging</li>
         </li>
         <p>Representative & UI Designer</p>
