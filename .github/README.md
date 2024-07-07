@@ -47,6 +47,3 @@
                  <li><a href = "https://kohls-admin-house.fandom.com/wiki/Admin_Commands" target="_blank">Kohls</a></li>
             </ul>
         </div>
-        <div class="section">
-            <h2>Access Information 🧾</h2>
-            <p><br>By using this <a href = "https://blood-gang-inc.github.io/sa-zserverside/" target="_blank">access key</a>, you agree to the <a href = "https://discord.gg/zvH3HsVYHf" target="_blank"> Terms of Service</a> and are accepting the punishments of using Saz.</p>
