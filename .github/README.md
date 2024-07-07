@@ -10,7 +10,7 @@
                  </div>
         <div class="button-container">
             <a class="button" href="https://linkr.it/saz" target="_blank">
-                <img src="https://i.pinimg.com/474x/e0/75/7b/e0757bad859c804c80c3b4f9f1066e98.jpg" alt="Discord's Logo" style="vertical-align: middle;">
+                <img src="https://files.catbox.moe/qp6vlr.jpg" alt="Discord's Logo" style="vertical-align: middle;">
             </a>
         </div>
     </div>
