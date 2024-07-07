@@ -34,7 +34,7 @@
             </ul>
         </div>
         <div class="section">
-            <h2>Admin Commands 🛡️</h2>
+            <h2>Admin System(s) Supported 🛡️</h2>
             <ul>
                 <li><a href="https://www.youtube.com/watch?v=uP-Q_4QyTaU&pp=ygUTbW1sICByb2Jsb3ggZXhwbG9pdA%3D%3D" target="_blank">MML</a></li>
                 <li><a href="https://github.com/EdgeIY/infiniteyield" target="_blank">IY</a></li>
