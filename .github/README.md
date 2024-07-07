@@ -27,9 +27,9 @@
             <h2>Credits 📜</h2>
             <p>Saz is brought to you by the talented individuals and contributors who have worked hard to develop and improve its features. We would like to express our gratitude to the following contributors:</p>
             <ul>
-                <li><a href="https://www.roblox.com/users/1396665251/profile" target="_blank">4zx16</a> — Owner (Modules, Systems, Features, Commands)</li>
-                <li><a href="https://www.roblox.com/users/62857002/profile" target="_blank">christopherdis</a> — UI</li>
-                <li><a href="" target="_blank">7zh14 — Uploading the Punishment Module & keeping it updated.</a></li>
+                <li><a href="https://www.roblox.com/users/1396665251/profile" target="_blank">4zx16</a></li> — Owner (Modules, Systems, Features, Commands)
+                <li><a href="https://www.roblox.com/users/62857002/profile" target="_blank">christopherdis</a></li> — UI
+                <li><a href="" target="_blank">7zh14</a></li> — Uploading the Punishment Module & keeping it updated.
                 <!-- Add more contributors as needed -->
             </ul>
             <p>We appreciate the dedication and hard work of our contributors in making Saz a powerful and enjoyable tool for the Roblox community.</p>
