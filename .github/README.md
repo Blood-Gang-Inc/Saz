@@ -9,8 +9,8 @@
             <p>Below are some of the commonly used commands with Saz:</p>
                  </div>
         <div class="button-container">
-            <a class="button" href="https://discord.gg/zvH3HsVYHf" target="_blank">
-                <img src="https://media.discordapp.net/attachments/338403017894395905/668536741942263808/Discord-Logo-Color.png" alt="Discord's Logo" style="vertical-align: middle;">
+            <a class="button" href="https://linkr.it/saz" target="_blank">
+                <img src="https://i.pinimg.com/474x/e0/75/7b/e0757bad859c804c80c3b4f9f1066e98.jpg" alt="Discord's Logo" style="vertical-align: middle;">
             </a>
         </div>
     </div>
