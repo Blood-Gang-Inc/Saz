@@ -49,6 +49,7 @@
                 <img src="https://files.catbox.moe/qp6vlr.jpg" alt="Discord's Logo" style="vertical-align: middle;">
             </a>
         </div>
+        <p>&copy; 2024 Blood Gang™️, Inc</p>
     </div>
 </body>
 </html>
