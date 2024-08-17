@@ -39,9 +39,9 @@
             <ul>
                 <li><a href="https://www.youtube.com/watch?v=uP-Q_4QyTaU&pp=ygUTbW1sICByb2Jsb3ggZXhwbG9pdA%3D%3D" target="_blank">MML</a></li>
                 <li><a href="https://github.com/EdgeIY/infiniteyield" target="_blank">IY</a></li>
-                <li><a href="https://github.com/Epix-Incorporated/Adonis/wiki" target="_blank">Adonis</a></li>
+                <li><a href="https://github.com/Epix-Incorporated/Adonis/wiki" target="_blank">Adonis Admin</a></li>
                 <li><a href="https://github.com/1ForeverHD/HDAdminV2" target="_blank">HD Admin</a></li>
-                <li><a href="https://kohls-admin-house.fandom.com/wiki/Admin_Commands" target="_blank">Kohls</a></li>
+                <li><a href="https://kohls-admin-house.fandom.com/wiki/Admin_Commands" target="_blank">Kohl's Admin</a></li>
             </ul>
         </div>
         <div class="button-container">
