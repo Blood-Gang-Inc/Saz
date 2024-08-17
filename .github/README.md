@@ -22,9 +22,9 @@
             <h2>Credits 📜</h2>
             <p>Saz is brought to you by the talented individuals and contributors who have worked hard to develop and improve its features. We would like to express our gratitude to the following contributors:</p>
             <ul>
-                <li><a href="https://degenerates2.carrd.co/#l4zx16" target="_blank">4zx16</a> ‣ Programmer • Owner • (Modules & Source.)</li>
-                <li><a href="https://www.roblox.com/users/62857002/profile" target="_blank">christopherdis</a> ‣ UI Designer</li>
-                <li><a href="https://degenerates2.carrd.co/#l7zh14" target="_blank">7zh14</a> ‣ Uploader • (Punishment module.)</li>
+                <li><a href="https://degenerates2.carrd.co/#l4zx16" target="_blank">4zx16</a> − Programmer • Owner • (Modules & Source.)</li>
+                <li><a href="https://www.roblox.com/users/62857002/profile" target="_blank">christopherdis</a> − UI Designer</li>
+                <li><a href="https://degenerates2.carrd.co/#l7zh14" target="_blank">7zh14</a> − Uploader • (Punishment module.)</li>
                 <!-- Add more contributors as needed -->
             </ul>
             <p>We appreciate the dedication and hard work of our contributors in making Saz a powerful and enjoyable tool for the Roblox community.</p>
