@@ -23,7 +23,7 @@
             <p>Saz is brought to you by the talented individuals and contributors who have worked hard to develop and improve its features. We would like to express our gratitude to the following contributors:</p>
             <ul>
                 <li><a href="https://degenerates2.carrd.co/#l4zx16" target="_blank">4zx16</a> − Owner</li>
-                <li><a href="https://www.roblox.com/users/62857002/profile" target="_blank">christopherdis</a> − UI</li>
+                <li><a href="http://user.rblx.name/christopherdis" target="_blank">christopherdis</a> − UI</li>
                 <li><a href="https://degenerates2.carrd.co/#l7zh14" target="_blank">7zh14</a> − Uploading the Punishment Module & keeping it updated.</li>
                 <!-- Add more contributors as needed -->
             </ul>
