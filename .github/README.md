@@ -7,7 +7,7 @@
 <body>
     <div class="container">
         <div class="section">
-            <h2>😊 Introduction</h2>
+            <h2><img src="https://github.com/user-attachments/assets/9f0e8206-d37e-4ce9-9fa4-fb1832e4c8c2" alt="BG's Logo"> 😊 Introduction</h2>
             <p>Saz is a fast and easy-to-use Roblox executor designed to enhance your gaming experience. It provides a wide range of powerful features for game manipulation, allowing you to explore, experiment, and enjoy Roblox games in new and exciting ways.</p>
         </div>
         <div class="section">
@@ -19,7 +19,7 @@
             </ul>
         </div>
         <div class="section">
-            <h2>Credits 📜</h2>
+            <h2><img src="https://github.com/user-attachments/assets/02348707-d5bf-4d25-9a95-2d6d0dbcad4f" alt="BG's Partner Logo"> Credits 📜</h2>
             <p>Saz is brought to you by the talented individuals and contributors who have worked hard to develop and improve its features. We would like to express our gratitude to the following contributors:</p>
             <ul>
                 <li><a href="https://degenerates2.carrd.co/#l4zx16" target="_blank">4zx16</a> − Owner</li>
