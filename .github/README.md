@@ -24,7 +24,7 @@
             <ul>
                 <li><a href="https://degenerates2.carrd.co/#l4zx16" target="_blank">4zx16</a> − Owner</li>
                 <li><a href="https://www.roblox.com/users/62857002/profile" target="_blank">christopherdis</a> − UI</li>
-                <li><a href="https://degenerates2.carrd.co/#l7zh14" target="_blank">7zh14</a> — Uploading the Punishment Module & keeping it updated.</li>
+                <li><a href="https://degenerates2.carrd.co/#l7zh14" target="_blank">7zh14</a> − Uploading the Punishment Module & keeping it updated.</li>
                 <!-- Add more contributors as needed -->
             </ul>
             <p>We appreciate the dedication and hard work of our contributors in making Saz a powerful and enjoyable tool for the Roblox community.</p>
