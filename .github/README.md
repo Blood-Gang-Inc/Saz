@@ -11,10 +11,6 @@
             <p>Saz is a fast and easy-to-use Roblox executor designed to enhance your gaming experience. It provides a wide range of powerful features for game manipulation, allowing you to explore, experiment, and enjoy Roblox games in new and exciting ways.</p>
         </div>
         <div class="section">
-            <h2>Command Documentation 📘</h2>
-            <p>Below are some of the commonly used commands with Saz:</p>
-        </div>
-        <div class="section">
             <h2>Commands 💘</h2>
             <ul>
                 <li><a href="https://github.com/F3XTeam/RBX-Building-Tools" target="_blank">F3X</a> <span>→ (Auto Updates)</span></li>
