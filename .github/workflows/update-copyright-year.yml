@@ -3,7 +3,7 @@ name: Update Copyright Year
 on:
   push:
     branches:
-      - main
+      - Documents
   schedule:
     - cron: '0 0 1 1 *'  # Runs at midnight on January 1st every year
 
