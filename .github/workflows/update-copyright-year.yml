@@ -1,28 +1,30 @@
 name: Update Copyright Year
 
 on:
-  push:
-    branches:
-      - Documents
   schedule:
-    - cron: '0 0 1 1 *'  # Runs at midnight on January 1st every year
+    # Run this job at 00:00 on the 1st of January every year
+    - cron: '0 0 1 1 *'
 
 jobs:
-  update-year:
+  update-readme:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
 
-      - name: Update copyright year
+      - name: Update Copyright Year
         run: |
-          current_year=$(date +'%Y')
-          sed -i "s/Copyright [0-9]\{4\}/Copyright $current_year/" README.md
+          # Get current year
+          CURRENT_YEAR=$(date +"%Y")
+
+          # Replace old year in README.md with the new one
+          sed -i "s/©️ [0-9]\{4\}/©️ $CURRENT_YEAR/" README.md
 
       - name: Commit changes
         run: |
-          git config --global user.name 'github-actions[bot]'
-          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add README.md
-          git commit -m "Update copyright year to $current_year"
+          git commit -m "Update copyright year to $CURRENT_YEAR"
           git push
