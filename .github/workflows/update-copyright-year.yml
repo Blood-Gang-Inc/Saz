@@ -18,13 +18,13 @@ jobs:
           # Get current year
           CURRENT_YEAR=$(date +"%Y")
 
-          # Replace old year in README.md with the new one
-          sed -i "s/©️ [0-9]\{4\}/©️ $CURRENT_YEAR/" README.md
+          # Replace old year in the README.md located in .github folder
+          sed -i "s/©️ [0-9]\{4\}/©️ $CURRENT_YEAR/" Documents/.github/README.md
 
       - name: Commit changes
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add README.md
+          git add Documents/.github/README.md
           git commit -m "Update copyright year to $CURRENT_YEAR"
           git push
