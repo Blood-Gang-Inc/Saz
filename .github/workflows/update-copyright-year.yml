@@ -13,12 +13,19 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
+      - name: Debug - Print current directory
+        run: |
+          # Print current working directory
+          pwd
+          # List files to ensure the file exists
+          ls -R
+
       - name: Update Copyright Year
         run: |
           # Get current year
           CURRENT_YEAR=$(date +"%Y")
 
-          # Replace old year in the README.md located in .github folder
+          # Replace old year in the README.md located in Documents/.github folder
           sed -i "s/©️ [0-9]\{4\}/©️ $CURRENT_YEAR/" Documents/.github/README.md
 
       - name: Commit changes
