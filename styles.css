@@ -10,7 +10,7 @@ body {
 
 .container {
     max-width: 800px;
-    margin: 0 auto;
+    margin: 40px auto;
     padding: 20px;
     background-color: #fff;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
@@ -24,6 +24,7 @@ h2 {
     margin-bottom: 20px;
     color: #2c3e50;
     font-size: 1.75rem;
+    letter-spacing: 1px;
 }
 
 /* Section Styles */
@@ -35,10 +36,12 @@ h2 {
     margin: 10px 0;
     font-size: 1.1rem;
     color: #555;
+    line-height: 1.8;
 }
 
 .section ul {
     margin: 10px 0;
+    padding-left: 0;
 }
 
 /* List Styles */
@@ -52,8 +55,13 @@ ul li {
     margin: 10px 0;
     padding: 15px;
     border-radius: 8px;
-    transition: background 0.3s ease;
+    transition: background 0.3s ease, transform 0.2s ease;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+}
+
+ul li:hover {
+    background-color: #dfe6e9;
+    transform: translateY(-2px);
 }
 
 ul li a {
@@ -64,11 +72,13 @@ ul li a {
 
 ul li a:hover {
     text-decoration: underline;
+    color: #2c3e50;
 }
 
 ul li span {
     color: #e74c3c;
     font-weight: normal;
+    margin-left: 5px;
 }
 
 /* Button Styles */
@@ -85,11 +95,13 @@ ul li span {
     text-decoration: none;
     font-weight: bold;
     display: inline-block;
-    transition: background 0.3s ease;
+    transition: background 0.3s ease, transform 0.2s ease;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 
 .button:hover {
     background-color: #2980b9;
+    transform: translateY(-2px);
 }
 
 .button img {
