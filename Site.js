@@ -21,6 +21,30 @@ document.addEventListener("DOMContentLoaded", () => {
         footerText.innerHTML = `&copy; ${currentYear} Blood Gang™️, Inc. All rights reserved.`;
     }
 });
+function createRainbowText(element) {
+    const colors = ['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet'];
+    let index = 0;
+
+    // Function to update the text color
+    function updateColor() {
+        // Apply the current color
+        element.style.color = colors[index];
+
+        // Move to the next color
+        index = (index + 1) % colors.length; // Loop back to start
+    }
+
+    // Update the color every 500 milliseconds
+    setInterval(updateColor, 500);
+}
+
+// Run the function when the document is fully loaded
+document.addEventListener("DOMContentLoaded", () => {
+    const autoUpdatesElement = document.getElementById('auto-updates');
+    if (autoUpdatesElement) {
+        createRainbowText(autoUpdatesElement);
+    }
+});
 
 // Confirm navigation for external links, excluding GitHub links
 document.querySelectorAll('a[target="_blank"]').forEach(link => {
