@@ -122,6 +122,19 @@ footer p {
     .container {
         padding: 15px;
     }
+    
+.rainbow-text {
+    background: linear-gradient(270deg, red, orange, yellow, green, blue, indigo, violet);
+    background-clip: text;
+    -webkit-background-clip: text; /* For Safari */
+    color: transparent;
+    animation: rainbow 5s linear infinite;
+}
+
+@keyframes rainbow {
+    0% { background-position: 0%; }
+    100% { background-position: 100%; }
+}
 
     h2 {
         font-size: 1.5rem;
