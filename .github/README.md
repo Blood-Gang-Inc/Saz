@@ -1,4 +1,4 @@
-## ![image](https://github.com/user-attachments/assets/cfd084e7-ec1c-4632-9463-df3373b51b19) # Saz
+## ![image](https://github.com/user-attachments/assets/cfd084e7-ec1c-4632-9463-df3373b51b19) Saz
 
 Welcome to Saz, a powerful and user-friendly Roblox executor designed to enhance your gaming experience! With Saz, you can explore and manipulate Roblox games in new and exciting ways.
 
