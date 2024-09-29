@@ -122,21 +122,6 @@ footer p {
     .container {
         padding: 15px;
     }
-    
-.rainbow-text {
-    display: inline-block; /* Necessary for the gradient effect */
-    background: linear-gradient(90deg, red, orange, yellow, green, blue, indigo, violet);
-    -webkit-background-clip: text; /* For Safari */
-    background-clip: text;
-    color: transparent; /* Makes the text color transparent */
-    animation: rainbow-animation 5s linear infinite; /* Adds animation */
-}
-
-@keyframes rainbow-animation {
-    0% { background-position: 0%; }
-    100% { background-position: 100%; }
-}
-
 
     h2 {
         font-size: 1.5rem;
