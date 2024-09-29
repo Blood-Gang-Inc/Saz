@@ -6,7 +6,7 @@
 
 Saz is engineered to elevate your gameplay by offering a comprehensive suite of features for game manipulation. With Saz, users can experiment and interact with Roblox games in innovative ways, fostering creativity and enjoyment within the gaming community.
 
-For more detailed information about our product and features, [please visit our official website](https://saz.bloodganginc.com).
+For more detailed information about our product and features, [please visit our official website](https://blood-gang-inc.github.io/Saz/).
 
 ## ![image](https://github.com/user-attachments/assets/ba78de70-ec68-45e8-8d4b-fbc5de812820) **Anti-Backdoor Initiative**
 
